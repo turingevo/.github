@@ -1,4 +1,21 @@
-## Hi there 👋
+
+Artificial intelligence , large language models , 
+deep learning , reinforcement learning , 
+machine vision ,speech recognition , 
+agents
+
+## about
+| | |
+|-|-|
+|org| https://github.com/turingevo
+|web | http://turingevo.com/
+|blog | https://turingevo.blog.csdn.net/
+
+
+## contact
+| | |
+|-|-|
+|email | wmx@turingevo.com 
 
 <!--
 
