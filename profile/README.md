@@ -7,9 +7,10 @@ agents
 ## about
 | | |
 |-|-|
-|org| https://github.com/turingevo
 |web | http://turingevo.com/
 |blog | https://turingevo.blog.csdn.net/
+|org | https://github.com/turingevo
+|huggingface | https://huggingface.co/turingevo
 
 
 ## contact
