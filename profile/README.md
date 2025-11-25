@@ -8,7 +8,7 @@ agents
 | | |
 |-|-|
 |web | http://turingevo.com/
-|blog | https://turingevo.com/blog /
+|blog | https://turingevo.com/blog/
 |org | https://github.com/turingevo
 |huggingface | https://huggingface.co/turingevo
 
