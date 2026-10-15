@@ -7,6 +7,7 @@ agents
 ## about
 | | |
 |-|-|
+|API | http://api.turingevo.com/
 |web | http://turingevo.com/
 |blog | https://turingevo.com/blog/
 |org | https://github.com/turingevo
